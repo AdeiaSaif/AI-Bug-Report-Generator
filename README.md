@@ -3,6 +3,7 @@
 A Streamlit-based AI tool that converts software issue descriptions into structured bug reports using Mistral AI via LangChain.
 
 ---
+Website: https://ai-bug-report--generator.streamlit.app/
 
 ## Features
 
@@ -22,6 +23,6 @@ A Streamlit-based AI tool that converts software issue descriptions into structu
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/bug-report-generator.git
+git clone https://github.com/AdeiaSaif/bug-report-generator.git
 cd bug-report-generator
 pip install -r requirements.txt
